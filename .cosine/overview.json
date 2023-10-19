@@ -1,0 +1,29 @@
+{
+  "projectName": "portfolio [WSL: Ubuntu]",
+  "summary": "Without any specific files or descriptions provided, it's impossible to accurately determine what the project does. However, based on the project name \"portfolio\" and the languages used (YAML and Python), I can make an educated guess.\n\nThis project is likely a portfolio management system. It could be used to manage a variety of portfolios, such as financial portfolios, project portfolios, or even digital portfolios for showcasing work. Python is a versatile language that can handle data analysis, web development, machine learning, and more, making it suitable for a wide range of portfolio types. YAML, on the other hand, is often used for configuration files, which suggests that this system might be customizable or configurable to suit different users' needs.\n\nWithout more information, it's hard to be more specific. The project could include features like tracking portfolio performance, visualizing data, managing assets, and so forth. It could be a web application, a desktop application, or even a command-line tool. It could be designed for individual users or for businesses. But these are all just possibilities based on the limited information available.",
+  "languages": [
+    "YAML",
+    "Python"
+  ],
+  "noteworthyDependencies": [],
+  "samplePrompts": [
+    "What is the main functionality of this portfolio system?",
+    "Is this program designed for a specific type of portfolio, such as financial or digital?",
+    "What are the main Python libraries used in this codebase and what are their functions?",
+    "What parts of the system are configured using YAML?",
+    "How does the portfolio system handle data storage?",
+    "What are the major Python modules in this project and what are their roles?",
+    "Are there any APIs or third-party services this portfolio system interacts with?",
+    "How are errors handled in this project?",
+    "What are the primary inputs and outputs of this system?",
+    "What tasks are automated in the project using Python?",
+    "Does this project have a user interface and if so, how is it implemented?",
+    "Does this system require specific hardware or software to run?",
+    "How is the system configured for different users?",
+    "Is multi-user access supported in this system?",
+    "Is there a testing framework set up for this project, if so what framework is it?",
+    "How is logging implemented in this project?",
+    "What are some potential improvements or features that can be added to this portfolio system?",
+    "What performance metrics are tracked for this portfolio system?"
+  ]
+}
